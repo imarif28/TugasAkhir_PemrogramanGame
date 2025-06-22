@@ -17,6 +17,16 @@ This project is a 2D adventure action game developed as part of the Game Program
 - **Platform:** PC
 - **Development Tools:** [Development tools used]
 
+## Game Documentation
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=137r_DF29AM2jF_nPfB8wYtMbwbHqyEE-" width="600" alt="Main Menu">
+<img src="https://drive.google.com/uc?export=view&id=1BF9ogJGozoIBgAJX3Ge7ALLUr0UvxmdY" width="600" alt="Main Adventure Gameplay">
+<img src="https://drive.google.com/uc?export=view&id=1pedO30o80e1Qkb883i-5g0WiLeUbH_vt" width="600" alt="Level 1 Quiz Challenge">
+<img src="https://drive.google.com/uc?export=view&id=1fMWQG7Mzwe6IbMj0zjMnDe2vlZPiatuu" width="600" alt="Level 2 Canyon Flight">
+<img src="https://drive.google.com/uc?export=view&id=1JbjNywRfDsdNa7rJgvSOwv6QB0-qqsFt" width="600" alt="Level 3 Tennis Duel">
+<img src="https://drive.google.com/uc?export=view&id=1OqzQo57t_-YnihbdY4XDTkhJYeg7aa7B" width="600" alt="Victory Screen">
+</div>
+
 ## How the Game Works
 
 ### Main Game Mechanics
@@ -116,16 +126,6 @@ This project is a 2D adventure action game developed as part of the Game Program
 - **Level 2 Lose:** Collide with obstacles or fall
 - **Level 3 Win:** Score 5 points before Grimtor in tennis match
 - **Level 3 Lose:** Allow Grimtor to score 5 points first
-
-## Game Documentation
-<div align="center">
-<img src="https://drive.google.com/uc?export=view&id=137r_DF29AM2jF_nPfB8wYtMbwbHqyEE-" width="600" alt="Main Menu">
-<img src="https://drive.google.com/uc?export=view&id=1BF9ogJGozoIBgAJX3Ge7ALLUr0UvxmdY" width="600" alt="Main Adventure Gameplay">
-<img src="https://drive.google.com/uc?export=view&id=1pedO30o80e1Qkb883i-5g0WiLeUbH_vt" width="600" alt="Level 1 Quiz Challenge">
-<img src="https://drive.google.com/uc?export=view&id=1fMWQG7Mzwe6IbMj0zjMnDe2vlZPiatuu" width="600" alt="Level 2 Canyon Flight">
-<img src="https://drive.google.com/uc?export=view&id=1JbjNywRfDsdNa7rJgvSOwv6QB0-qqsFt" width="600" alt="Level 3 Tennis Duel">
-<img src="https://drive.google.com/uc?export=view&id=1OqzQo57t_-YnihbdY4XDTkhJYeg7aa7B" width="600" alt="Victory Screen">
-</div>
 
 
 ## Development Team
